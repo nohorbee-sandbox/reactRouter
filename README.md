@@ -1,3 +1,11 @@
+# What is this?
+I let the original react archetype readme for further instructions.
+
+Just a quick section to let you know this is just a tutorial for understanding the basics of react router. 
+It was done following the explanations on this link: [https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md](https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
